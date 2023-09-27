@@ -1,19 +1,19 @@
 <h1>Wordle Vur.JS</h1>
 <p>The game wordle made with vue.js</p>
 
-<img src="./public/wordle-start.PNG" alt="wordle-start" />
+<img src="./public/wordle-start.JPG" alt="wordle-start" />
 
 <p>Write your word!</p>
-<img src="./public/wordle-word.PNG" alt="wordle-word" />
+<img src="./public/wordle-word.JPG" alt="wordle-word" />
 
 <p>Click enter to guess (Green -> letter in the right place / Yellow -> The word has the letter but it is not in the right place / White -> The letter does not exist in the word).</p>
-<img src="./public/wordle-guess.PNG" alt="wordle-guess.PNG" />
+<img src="./public/wordle-guess.JPG" alt="wordle-guess.PNG" />
 
 <p>Win the game.</p>
-<img src="./public/wordle-win.PNG" alt="wordle-win.PNG" />
+<img src="./public/wordle-win.JPG" alt="wordle-win.PNG" />
 
 <p>Lose the game.</p>
-<img src="./public/wordle-lose.PNG" alt="wordle-lose.PNG" />
+<img src="./public/wordle-lose.JPG" alt="wordle-lose.PNG" />
 
 
 <h1>Run the Project and Play</h1>
