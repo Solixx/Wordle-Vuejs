@@ -1,7 +1,25 @@
-# Vue 3 + Vite
+<h1>Wordle Vur.JS</h1>
+<p>The game wordle made with vue.js</p>
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<img src="./public/wordle-start.PNG" alt="wordle-start" />
 
-## Recommended IDE Setup
+<p>Write your word!</p>
+<img src="./public/wordle-word.PNG" alt="wordle-word" />
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<p>Click enter to guess (Green -> letter in the right place / Yellow -> The word has the letter but it is not in the right place / White -> The letter does not exist in the word).</p>
+<img src="./public/wordle-guess.PNG" alt="wordle-guess.PNG" />
+
+<p>Win the game.</p>
+<img src="./public/wordle-win.PNG" alt="wordle-win.PNG" />
+
+<p>Lose the game.</p>
+<img src="./public/wordle-lose.PNG" alt="wordle-lose.PNG" />
+
+
+<h1>Run the Project and Play</h1>
+<p>To run and play the game you need to follow these steps:</p>
+<ul>
+  <li>Clone this repository</li>
+  <li>Open the code on your IDE</li>
+  <li>Run code using 'npm run dev'</li>
+</ul>
